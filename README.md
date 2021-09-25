@@ -7,7 +7,7 @@ The Showcase Bootstrap5 Theme by BostonianAdam is a free HTML 5/Bootstrap 5 them
 ## Built With
 * HTML5
 * [Bootstrap 5](https://getbootstrap.com/) - The theme uses badges, buttons, cards, carousel, dropdown, form, navbar, pagination
-* Bootstrap icons
+* [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 ## Authors
 * **BostonianAdam** - [bostonianadam.com](https://bostonianadam.com/), Twitter: [@BostonianAdam](https://twitter.com/BostonianAdam)
