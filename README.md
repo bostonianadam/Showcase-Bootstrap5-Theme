@@ -2,7 +2,7 @@
 The Showcase Bootstrap5 Theme by BostonianAdam is a free HTML 5/Bootstrap 5 theme for everyone.
 
 ## Demo
-[hub.bostonianadam.com/themes/showcase-bs5/](https://hub.bostonianadam.com/themes/showcase-bs5/)
+[hub.bostonianadam.com/themes/showcase-bs5/index.htm](https://hub.bostonianadam.com/themes/showcase-bs5/index.htm)
 
 ## Built With
 * HTML5
